@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "SignalSet"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "An IoT Provider"
 name                     : "Andrew Buffmire"
 description              : "An Internet of Things provider."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
