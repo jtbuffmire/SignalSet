@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Internet of Things"
+  - title: "Products"
     url: www.signalset.com
-  # - title: "About"
+  - title: "Services"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+  - title: "Partners"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
