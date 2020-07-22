@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : <a href="../assets/Logos/Croppod_LogoPNG-02-01.png"><img src="SignalSet logo.png" style="width:100px; height:30px" title="SignalSet.com" alt="Logo"></a>
+title                    : SignalSet
 title_separator          : "-"
-subtitle                 : "An IoT Provider"
+subtitle                 : "An Integrated IoT Provider"
 name                     : "Andrew Buffmire"
 description              : "An Internet of Things provider."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jtbuffmire.github.io/SignalSet/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jtbuffmire/SignalSet"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Buffmire"
-  avatar           : "/assets/Images/Andrew.jfif"
+  avatar           : <input type="image" src="assets/Andrew.jfif" alt="Andy" width="48" height="48">
   bio              : "Purveyer of **practical** Internet of things applications."
   location         : "Salt Lake City, UT"
   email            : "abuffmire@signalset.com"
