@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SignalSet"
+title                    : <a href="/assets/Logos/Croppod_LogoPNG-02-01.png"><img src="SignalSet logo.png" style="width:100px; height:30px" title="SignalSet.com" alt="Logo"></a>
 title_separator          : "-"
 subtitle                 : "An IoT Provider"
 name                     : "Andrew Buffmire"
