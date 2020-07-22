@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Buffmire"
-  avatar           : <input type="image" src="assets/Andrew.jfif" alt="Andy" width="48" height="48">
+  avatar           : <img src="assets/Andrew.jfif">
   bio              : "Purveyer of **practical** Internet of things applications."
   location         : "Salt Lake City, UT"
   email            : "abuffmire@signalset.com"
