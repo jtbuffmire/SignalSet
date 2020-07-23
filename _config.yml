@@ -1,4 +1,5 @@
 # Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -97,7 +98,7 @@ author:
   avatar           : "assets/download.jpg"
   bio              : "Practical Internet of Things applications leveraging Low Power, Wide Area Networks in the 915Mhz Spectrum Band."
   location         : "Salt Lake City, UT"
-  email            : "abuffmire@signalset.com"
+  email            : "andy@signalset.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
